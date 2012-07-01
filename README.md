@@ -1,4 +1,6 @@
 zippy
 =====
 
-zipcode stuff
+zipcode database
+
+data provided by http://federalgovernmentzipcodes.us/
